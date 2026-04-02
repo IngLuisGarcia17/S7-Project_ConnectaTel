@@ -1,5 +1,5 @@
 # ConnectaTel Professional Analysis 
-This repository contains the comprehensive analysis performed for the Sprint 7 Capstone Project - ConnectaTel Case Study.
+This repository contains the comprehensive analysis performed for the Sprint 7 Final Project - ConnectaTel Case Study.
 
 The `ConnectaTel case` dataset includes 40,000 customer records featuring missing values, sentinel values, outliers, and real-world data quality challenges.
 ## 📂 Repository Content
